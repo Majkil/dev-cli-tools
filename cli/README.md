@@ -9,7 +9,7 @@ Clone the Repo
 Navigate to the directory and add the tool to dart global
 
 ```sh
-$ dart pub global activate --source path .
+dart pub global activate --source path .
 ```
 
 This will allow you use the tool from anywhere in a termninal
